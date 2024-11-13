@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.price{
+ font-size: 20px; 
+ font-weight: 700;
+}
+.title{
+  font-weight: 500;
+}
+.but{
+  background-color: blueviolet;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
